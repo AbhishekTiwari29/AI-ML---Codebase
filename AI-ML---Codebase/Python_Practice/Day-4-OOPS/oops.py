@@ -1,3 +1,5 @@
+# PRACTICE CODE 
+
 class student :
     subject = "Python"
     collage  = "BTIRT"
@@ -17,7 +19,7 @@ class student :
 stu1 = student("Amar")
 print(stu1.name)
 
-instance Methods
+# instance Methods
 
 
 class laptop:
